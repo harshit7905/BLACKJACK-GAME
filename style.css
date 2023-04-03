@@ -1,0 +1,47 @@
+body {
+    font-weight: bold;
+    color: white;
+    background-color: rgb(34, 39, 34);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(162, 142, 91);
+}
+
+#message-el {
+    font-style: italic;
+}
+
+#button-el {
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding: 8px;
+    /* padding-top: 5px; */
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+#button-el:hover {
+    border: 2px solid white;
+    cursor: pointer;
+}
+
+#newCard-el {
+    color: #016f32;
+    width: 150px;
+    background-color: goldenrod;
+    padding: 8px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+
+}
+
+#newCard-el:hover {
+    border: 2px solid white;
+    cursor: pointer;
+}
